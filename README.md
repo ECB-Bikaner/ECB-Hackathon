@@ -10,12 +10,19 @@ This is an online hackathon taking place very first time in your college. The ma
 
 ## Technologies
 **Javascript** (one of below or any JavaScript framework you like)
-- AngularJS
-- ReactJs
+- [AngularJS](https://angularjs.org/)
+- [ReactJs](https://facebook.github.io/react/)
 
 **Python** (one of below or any Python framework you like)
-- Django
-- Django REST
-- Flask
+- [Django](https://www.djangoproject.com/)
+- [Django REST](www.django-rest-framework.org/)
+- [Flask](flask.pocoo.org/)
 - Web App 2 (Google app engine)
 
+## The Process
+- Register yourself by filling the registration form ( you have already done that if not register [here](https://goo.gl/forms/fjlJDVlwnGBJ0p3K3) )
+- 15th March and 16th March idea generation, queries and start learning tech.
+- 17th March to 30th March Learning and building with your team.
+- 31st March Final submision.
+- You guys have to learn [github](https://github.com) and put your final code to [github](https://github.com).
+- Comment your queries here: https://github.com/ECB-Bikaner/ECB-Hackathon/issues/1 .
