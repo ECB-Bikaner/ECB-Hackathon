@@ -12,6 +12,7 @@ This is an online hackathon taking place very first time in your college. The ma
 **Javascript** (one of below or any JavaScript framework you like)
 - [AngularJS](https://angularjs.org/)
 - [ReactJs](https://facebook.github.io/react/)
+- Others
 
 **Python** (one of below or any Python framework you like)
 - [Django](https://www.djangoproject.com/)
